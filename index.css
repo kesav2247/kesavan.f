@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+#timer{
+ text-align: center;
+ font-size: 40px;
+ margin: 200px;
+ font-family:Arial, Helvetica, sans-serif;
+ 
+}
